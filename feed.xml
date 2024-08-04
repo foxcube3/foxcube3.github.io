@@ -3,12 +3,31 @@
     <title>DeepFox</title>
     <link href="https://deepfox.one/feed.xml" rel="self" />
     <link href="https://deepfox.one" />
-    <updated>2024-07-28T20:17:49-06:00</updated>
+    <updated>2024-08-03T18:16:36-06:00</updated>
     <author>
         <name>JSD</name>
     </author>
     <id>https://deepfox.one</id>
 
+    <entry>
+        <title>Whats for dinner</title>
+        <author>
+            <name>JSD</name>
+        </author>
+        <link href="https://deepfox.one/whats-for-dinner.html"/>
+        <id>https://deepfox.one/whats-for-dinner.html</id>
+
+        <updated>2024-08-03T18:16:36-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lilly &amp; I</title>
         <author>
