@@ -1,0 +1,8 @@
+# Redirect the root and index.html to foxcube3.github.io
+RewriteEngine On
+
+# Redirect requests to the site root
+RewriteRule ^$ https://foxcube3.github.io/ [R=301,L]
+
+# Redirect explicit index.html
+RewriteRule ^index\.html$ https://foxcube3.github.io/ [R=301,L]
