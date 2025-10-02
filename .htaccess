@@ -14,5 +14,9 @@ RewriteRule ^out-at-papas-house-3\.html$ https://foxcube3.github.io/out-at-papas
 RewriteRule ^the-4th-of-july-3\.html$ https://foxcube3.github.io/the-4th-of-july-3.html [R=301,L]
 RewriteRule ^whats-for-dinner\.html$ https://foxcube3.github.io/whats-for-dinner.html [R=301,L]
 
+# Redirect authors and tags directories
+RewriteRule ^authors/(.*)$ https://foxcube3.github.io/authors/$1 [R=301,L]
+RewriteRule ^tags/(.*)$ https://foxcube3.github.io/tags/$1 [R=301,L]
+
 # Catch-all to preserve other paths
 RewriteRule ^(.*)$ https://foxcube3.github.io/$1 [R=301,L]

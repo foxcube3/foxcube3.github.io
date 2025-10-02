@@ -5,4 +5,6 @@
 /out-at-papas-house-3.html https://foxcube3.github.io/out-at-papas-house-3.html 301
 /the-4th-of-july-3.html https://foxcube3.github.io/the-4th-of-july-3.html 301
 /whats-for-dinner.html https://foxcube3.github.io/whats-for-dinner.html 301
+/authors/* https://foxcube3.github.io/authors/:splat 301
+/tags/* https://foxcube3.github.io/tags/:splat 301
 /* https://foxcube3.github.io/:splat 301
