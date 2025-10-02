@@ -1,10 +1,4 @@
-/ https://fxcb3.work.gd/ 301
-/index.html https://fxcb3.work.gd/ 301
-/lilly-and-i.html https://fxcb3.work.gd/lilly-and-i.html 301
-/our-little-lilly-3.html https://fxcb3.work.gd/our-little-lilly-3.html 301
-/out-at-papas-house-3.html https://fxcb3.work.gd/out-at-papas-house-3.html 301
-/the-4th-of-july-3.html https://fxcb3.work.gd/the-4th-of-july-3.html 301
-/whats-for-dinner.html https://fxcb3.work.gd/whats-for-dinner.html 301
-/authors/* https://fxcb3.work.gd/authors/:splat 301
-/tags/* https://fxcb3.work.gd/tags/:splat 301
-/* https://fxcb3.work.gd/:splat 301
+# Removed self-referential redirects that were causing loops.
+# If you need to redirect from an old domain to fxcb3.work.gd on Netlify,
+# use domain-specific rules like:
+# https://old.example.com/* https://fxcb3.work.gd/:splat 301!
