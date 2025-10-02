@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 
 # Point crawlers to the new site's sitemap
-Sitemap: https://foxcube3.github.io/sitemap.xml
+Sitemap: https://fxcb3.work.gd/sitemap.xml

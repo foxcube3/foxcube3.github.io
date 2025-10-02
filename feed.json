@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "DeepFox",
     "description": "",
-    "home_page_url": "https://foxcube3.github.io",
-    "feed_url": "https://foxcube3.github.io/feed.json",
+    "home_page_url": "https://fxcb3.work.gd",
+    "feed_url": "https://fxcb3.work.gd/feed.json",
     "user_comment": "",
     "icon": "/media/website/web1.webp",
     "author": {
@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://foxcube3.github.io/whats-for-dinner.html",
-            "url": "https://foxcube3.github.io/whats-for-dinner.html",
+            "id": "https://fxcb3.work.gd/whats-for-dinner.html",
+            "url": "https://fxcb3.work.gd/whats-for-dinner.html",
             "title": "Whats for dinner",
             "summary": "Pizza is for dinner tonight. We have been cleaning the house. Time to take it easy.",
             "content_html": "\n  <p>\n    Pizza is for dinner tonight. We have been cleaning the house. Time to take it easy.\n  </p>",
@@ -24,8 +24,8 @@
             "date_modified": "2024-08-03T19:07:44-06:00"
         },
         {
-            "id": "https://foxcube3.github.io/lilly-and-i.html",
-            "url": "https://foxcube3.github.io/lilly-and-i.html",
+            "id": "https://fxcb3.work.gd/lilly-and-i.html",
+            "url": "https://fxcb3.work.gd/lilly-and-i.html",
             "title": "Lilly &amp; I",
             "summary": "Time for a Selfie",
             "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"/media/posts/10/IMG_20240728_191951847.jpg\" height=\"4608\" width=\"3456\" alt=\"\" sizes=\"100vw\" srcset=\"/media/posts/10/responsive/IMG_20240728_191951847-xs.jpg 300w ,/media/posts/10/responsive/IMG_20240728_191951847-sm.jpg 480w ,/media/posts/10/responsive/IMG_20240728_191951847-md.jpg 768w ,/media/posts/10/responsive/IMG_20240728_191951847-lg.jpg 1024w ,/media/posts/10/responsive/IMG_20240728_191951847-xl.jpg 1360w ,/media/posts/10/responsive/IMG_20240728_191951847-2xl.jpg 1600w\">\n      <figcaption>Time for a Selfie </figcaption>\n    </figure>",
@@ -37,8 +37,8 @@
             "date_modified": "2024-07-28T20:17:49-06:00"
         },
         {
-            "id": "https://foxcube3.github.io/our-little-lilly-3.html",
-            "url": "https://foxcube3.github.io/our-little-lilly-3.html",
+            "id": "https://fxcb3.work.gd/our-little-lilly-3.html",
+            "url": "https://fxcb3.work.gd/our-little-lilly-3.html",
             "title": "Our Little Lilly",
             "summary": "It was a wonderful evening with our little lady. She is happy, healthy, and growing fast.",
             "content_html": "\n  <div class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"/media/posts/9/gallery/IMG_20240703_020030412.jpg\" data-size=\"3000x4000\">\n        <img loading=\"lazy\" src=\"/media/posts/9/gallery/IMG_20240703_020030412-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/9/gallery/IMG_20240703_020035515.jpg\" data-size=\"4000x3000\">\n        <img loading=\"lazy\" src=\"/media/posts/9/gallery/IMG_20240703_020035515-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/9/gallery/IMG_20240703_020037239.jpg\" data-size=\"4000x3000\">\n        <img loading=\"lazy\" src=\"/media/posts/9/gallery/IMG_20240703_020037239-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/9/gallery/IMG_20240703_020038592.jpg\" data-size=\"3000x4000\">\n        <img loading=\"lazy\" src=\"/media/posts/9/gallery/IMG_20240703_020038592-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    It was a wonderful evening with our little lady. She is happy, healthy, and growing fast.\n  </p>",
@@ -50,8 +50,8 @@
             "date_modified": "2024-07-28T18:36:37-06:00"
         },
         {
-            "id": "https://foxcube3.github.io/out-at-papas-house-3.html",
-            "url": "https://foxcube3.github.io/out-at-papas-house-3.html",
+            "id": "https://fxcb3.work.gd/out-at-papas-house-3.html",
+            "url": "https://fxcb3.work.gd/out-at-papas-house-3.html",
             "title": "Out at Papa&#x27;s House",
             "summary": "Some time in the shade with the kids playing was much overdue. It was rather hot at 104F. We were completely comfortable with the trees funnelling a decent breeze. Papa's house is always a prime destination for the kiddos.&nbsp;",
             "content_html": "\n  <div class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_192254839.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_192254839-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_192312392.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_192312392-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_192329503.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_192329503-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_192745995.jpg\" data-size=\"9000x12000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_192745995-thumbnail.jpg\" height=\"960\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_195441722.jpg\" data-size=\"3840x2160\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_195441722-thumbnail.jpg\" height=\"405\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_201215208.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_201215208-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/8/gallery/IMG_20240704_201230861.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/8/gallery/IMG_20240704_201230861-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    Some time in the shade with the kids playing was much overdue. It was rather hot at 104F. We were completely comfortable with the trees funnelling a decent breeze. Papa's house is always a prime destination for the kiddos.&nbsp;\n  </p>",
@@ -63,8 +63,8 @@
             "date_modified": "2024-07-28T18:42:01-06:00"
         },
         {
-            "id": "https://foxcube3.github.io/the-4th-of-july-3.html",
-            "url": "https://foxcube3.github.io/the-4th-of-july-3.html",
+            "id": "https://fxcb3.work.gd/the-4th-of-july-3.html",
+            "url": "https://fxcb3.work.gd/the-4th-of-july-3.html",
             "title": "The 4TH of July",
             "summary": "It sure was an exciting night. We were all next to the speedway ready for the dazzling 4th of July fireworks.&nbsp;",
             "content_html": "\n  <div class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"/media/posts/7/gallery/IMG_20240704_215452550.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/7/gallery/IMG_20240704_215452550-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/7/gallery/IMG_20240704_215455273.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/7/gallery/IMG_20240704_215455273-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/7/gallery/IMG_20240704_215459530.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/7/gallery/IMG_20240704_215459530-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/7/gallery/IMG_20240704_215503247.jpg\" data-size=\"12000x9000\">\n        <img loading=\"lazy\" src=\"/media/posts/7/gallery/IMG_20240704_215503247-thumbnail.jpg\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"/media/posts/7/gallery/IMG_20240704_215517734.jpg\" data-size=\"3840x2160\">\n        <img loading=\"lazy\" src=\"/media/posts/7/gallery/IMG_20240704_215517734-thumbnail.jpg\" height=\"405\" width=\"720\" alt=\"\" >\n      </a>\n    </figure>\n    </div>\n  </div>\n\n  <p>\n    It sure was an exciting night. We were all next to the speedway ready for the dazzling 4th of July fireworks.&nbsp;\n  </p>",

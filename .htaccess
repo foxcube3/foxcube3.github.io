@@ -1,22 +1,22 @@
-# Redirect all traffic to foxcube3.github.io (preserving paths)
+# Redirect all traffic to fxcb3.work.gd (preserving paths)
 RewriteEngine On
 
 # Redirect root
-RewriteRule ^$ https://foxcube3.github.io/ [R=301,L]
+RewriteRule ^$ https://fxcb3.work.gd/ [R=301,L]
 
 # Redirect index
-RewriteRule ^index\.html$ https://foxcube3.github.io/ [R=301,L]
+RewriteRule ^index\.html$ https://fxcb3.work.gd/ [R=301,L]
 
 # Redirect specific known pages
-RewriteRule ^lilly-and-i\.html$ https://foxcube3.github.io/lilly-and-i.html [R=301,L]
-RewriteRule ^our-little-lilly-3\.html$ https://foxcube3.github.io/our-little-lilly-3.html [R=301,L]
-RewriteRule ^out-at-papas-house-3\.html$ https://foxcube3.github.io/out-at-papas-house-3.html [R=301,L]
-RewriteRule ^the-4th-of-july-3\.html$ https://foxcube3.github.io/the-4th-of-july-3.html [R=301,L]
-RewriteRule ^whats-for-dinner\.html$ https://foxcube3.github.io/whats-for-dinner.html [R=301,L]
+RewriteRule ^lilly-and-i\.html$ https://fxcb3.work.gd/lilly-and-i.html [R=301,L]
+RewriteRule ^our-little-lilly-3\.html$ https://fxcb3.work.gd/our-little-lilly-3.html [R=301,L]
+RewriteRule ^out-at-papas-house-3\.html$ https://fxcb3.work.gd/out-at-papas-house-3.html [R=301,L]
+RewriteRule ^the-4th-of-july-3\.html$ https://fxcb3.work.gd/the-4th-of-july-3.html [R=301,L]
+RewriteRule ^whats-for-dinner\.html$ https://fxcb3.work.gd/whats-for-dinner.html [R=301,L]
 
 # Redirect authors and tags directories
-RewriteRule ^authors/(.*)$ https://foxcube3.github.io/authors/$1 [R=301,L]
-RewriteRule ^tags/(.*)$ https://foxcube3.github.io/tags/$1 [R=301,L]
+RewriteRule ^authors/(.*)$ https://fxcb3.work.gd/authors/$1 [R=301,L]
+RewriteRule ^tags/(.*)$ https://fxcb3.work.gd/tags/$1 [R=301,L]
 
 # Catch-all to preserve other paths
-RewriteRule ^(.*)$ https://foxcube3.github.io/$1 [R=301,L]
+RewriteRule ^(.*)$ https://fxcb3.work.gd/$1 [R=301,L]

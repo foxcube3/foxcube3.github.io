@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>DeepFox</title>
-    <link href="https://foxcube3.github.io/feed.xml" rel="self" />
-    <link href="https://foxcube3.github.io" />
+    <link href="https://fxcb3.work.gd/feed.xml" rel="self" />
+    <link href="https://fxcb3.work.gd" />
     <updated>2024-08-03T19:07:44-06:00</updated>
     <author>
         <name>JSD</name>
     </author>
-    <id>https://foxcube3.github.io</id>
+    <id>https://fxcb3.work.gd</id>
 
     <entry>
         <title>Whats for dinner</title>
         <author>
             <name>JSD</name>
         </author>
-        <link href="https://foxcube3.github.io/whats-for-dinner.html"/>
-        <id>https://foxcube3.github.io/whats-for-dinner.html</id>
+        <link href="https://fxcb3.work.gd/whats-for-dinner.html"/>
+        <id>https://fxcb3.work.gd/whats-for-dinner.html</id>
 
         <updated>2024-08-03T18:16:36-06:00</updated>
             <summary>
@@ -37,8 +37,8 @@
         <author>
             <name>JSD</name>
         </author>
-        <link href="https://foxcube3.github.io/lilly-and-i.html"/>
-        <id>https://foxcube3.github.io/lilly-and-i.html</id>
+        <link href="https://fxcb3.work.gd/lilly-and-i.html"/>
+        <id>https://fxcb3.work.gd/lilly-and-i.html</id>
 
         <updated>2024-07-28T20:14:28-06:00</updated>
             <summary>
@@ -61,8 +61,8 @@
         <author>
             <name>JSD</name>
         </author>
-        <link href="https://foxcube3.github.io/our-little-lilly-3.html"/>
-        <id>https://foxcube3.github.io/our-little-lilly-3.html</id>
+        <link href="https://fxcb3.work.gd/our-little-lilly-3.html"/>
+        <id>https://fxcb3.work.gd/our-little-lilly-3.html</id>
 
         <updated>2024-07-28T05:27:38-06:00</updated>
             <summary>
@@ -110,8 +110,8 @@
         <author>
             <name>JSD</name>
         </author>
-        <link href="https://foxcube3.github.io/out-at-papas-house-3.html"/>
-        <id>https://foxcube3.github.io/out-at-papas-house-3.html</id>
+        <link href="https://fxcb3.work.gd/out-at-papas-house-3.html"/>
+        <id>https://fxcb3.work.gd/out-at-papas-house-3.html</id>
 
         <updated>2024-07-28T05:25:46-06:00</updated>
             <summary>
@@ -174,8 +174,8 @@
         <author>
             <name>JSD</name>
         </author>
-        <link href="https://foxcube3.github.io/the-4th-of-july-3.html"/>
-        <id>https://foxcube3.github.io/the-4th-of-july-3.html</id>
+        <link href="https://fxcb3.work.gd/the-4th-of-july-3.html"/>
+        <id>https://fxcb3.work.gd/the-4th-of-july-3.html</id>
 
         <updated>2024-07-28T04:54:19-06:00</updated>
             <summary>
