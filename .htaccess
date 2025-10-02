@@ -1,28 +1,17 @@
-# Redirect all traffic to fxcb3.work.gd (preserving paths)
+# Safe host and HTTPS enforcement without redirect loops
 RewriteEngine On
 
-# Enforce HTTPS and upgrade any insecure requests
+# Security headers
 Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
 Header always set Content-Security-Policy "upgrade-insecure-requests"
 Header always set X-Content-Type-Options "nosniff"
 Header always set Referrer-Policy "no-referrer-when-downgrade"
 
-# Redirect root
-RewriteRule ^$ https://fxcb3.work.gd/ [R=301,L]
-
-# Redirect index
-RewriteRule ^index\.html$ https://fxcb3.work.gd/ [R=301,L]
-
-# Redirect specific known pages
-RewriteRule ^lilly-and-i\.html$ https://fxcb3.work.gd/lilly-and-i.html [R=301,L]
-RewriteRule ^our-little-lilly-3\.html$ https://fxcb3.work.gd/our-little-lilly-3.html [R=301,L]
-RewriteRule ^out-at-papas-house-3\.html$ https://fxcb3.work.gd/out-at-papas-house-3.html [R=301,L]
-RewriteRule ^the-4th-of-july-3\.html$ https://fxcb3.work.gd/the-4th-of-july-3.html [R=301,L]
-RewriteRule ^whats-for-dinner\.html$ https://fxcb3.work.gd/whats-for-dinner.html [R=301,L]
-
-# Redirect authors and tags directories
-RewriteRule ^authors/(.*)$ https://fxcb3.work.gd/authors/$1 [R=301,L]
-RewriteRule ^tags/(.*)$ https://fxcb3.work.gd/tags/$1 [R=301,L]
-
-# Catch-all to preserve other paths
+# Redirect to fxcb3.work.gd only if the current host is different
+RewriteCond %{HTTP_HOST} !^fxcb3\.work\.gd$ [NC]
 RewriteRule ^(.*)$ https://fxcb3.work.gd/$1 [R=301,L]
+
+# Enforce HTTPS when not already using it (keeps current host/path)
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
