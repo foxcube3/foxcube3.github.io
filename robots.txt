@@ -1,3 +1,5 @@
 User-agent: *
-Disallow:
-Sitemap: https://deepfox.one/sitemap.xml
+Disallow: /
+
+# Point crawlers to the new site's sitemap
+Sitemap: https://fxcb3.work.gd/sitemap.xml
